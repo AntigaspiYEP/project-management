@@ -24,6 +24,29 @@ Participants:
       un restaurateur ou une entreprise qui souhaiterait une simple gestion de
       stocks et pas nécessairement des denrées périssables.
 
+## Maquettes
+
+* Si les maquettes ne sont pas déjà rendues disponible par l'équipe marketing,
+  il est possible de les réaliser. Distinguons 2 étapes:
+
+    * Les wireframes: qui sont la conception de l'interface sans couleur,
+      souvent réalisé à la main. Étape dédiée à savoir où vont être placés les
+      éléments;
+
+    * Les mockups: qui sont une représentation visuelle quasiment au pixel prêt
+      de ce que sera le visuel de l'application. Les mockups sont généralement
+      livrés en version directement lisible par le développeur qui sera alors
+      chargé d'implémenter l'interface le plus fidèlement possible à ces
+      mockups (certains diront "pixel-perfect").
+
+* Pour ce faire, plusieurs applications sont disponibles sur le marché.
+    * [Sketch](https://alternativeto.net/software/sketch)/ est actuellement le
+      plus utilisé mais est payant et disponible uniquement sous macOS.
+    * [InVision](https://alternativeto.net/software/invision/), une app web qui
+      dispose d'une version gratuite.
+    * [Marvel](https://alternativeto.net/software/marvel/), une alternative
+      à InVision, elle aussi souvent employée en entreprise.
+
 ## Idée d'implémentation
 
 * On voit ça comme une application mobile avec un backend minimaliste.
