@@ -19,3 +19,5 @@
 - [ ] Nous n'avons malheureusement pas d'infographiste dans notre groupe donc nous ne pourrons pas garantir un design très moderne.
 - [ ] De plus nous sommes actuellement encore en train d'apprendre à utiliser les technologies nécessaires au développement, nous prendrons donc en compte dans nos estimations le temps de formation de notre équipe. 
 
+
+
