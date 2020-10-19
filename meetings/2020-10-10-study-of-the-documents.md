@@ -58,9 +58,6 @@
 
 - Les aliments ne doivent pas êtres encodés manuellement
 
-  
-
-##### idées de fonctionnalités de l'équipe informatique :
 
 - Lien mise en avant des recettes qui peuvent êtres réalisée selon le poids du produit et des autres produits restant -> favoriser les aliments sur le point de périmer
 
