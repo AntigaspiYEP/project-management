@@ -1,4 +1,4 @@
-# Meeting du 2020-11-03
+# Meeting technique du 2020-11-02
 
 Date: 2020-11-03
 
