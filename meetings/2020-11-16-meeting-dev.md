@@ -34,5 +34,9 @@ Second meeting l’app et resynchronisation d'équipe.
 
   ![nested listes dans acalendar](./img/acalendar-nested-list-example.jpg)
       
+  L'application open source [Tasks (disponible sur
+  F-Droid)](https://f-droid.org/en/packages/org.tasks) dispose également de
+  nested lists. Le code est intéressant, mais étant de licence GPL, ça implique
+  que notre code le soit également.
 
-
+  ![nested listes dans f-droid tasks](./img/fdroid-tasks-neste-list-example.jpg)
