@@ -102,7 +102,7 @@ Note : Par rapport aux autres réunions, les étudiants en comptabilité ont ét
 
         * Variante A : Simplement pour le démarrage de l'application, l'argent récolté permettrait le paiement des développeurs. Les early-adopters s’attendront alors à avoir une contre partie (ex.: si un futur abonnement est produit, quelque chose gratuit de par le futur). Cette stratégie doit cependant s'assurer que le nouveau business model est prêt et ne pas se dire que ce sera l'objet d'une décision ultérieure. La personne qui souhaite investir doit être convaincue par le business model.
 
-        * Variante B : En faire un commun numérique. Si le crowdfunding réussi mais que le business model est bancal au point où les investisseurs semblent avoir été floués (c'est parfois le cas si l'entreprise se développe et devient de plus en plus marcantile sans pour les early adopter d'avoir obtenu une contre partie). Placer l'application en [open-source](https://fr.wikipedia.org/wiki/Open_source) serait alors nécessaire, quitte à ce que ce projet devienne un [commun numérique](https://fr.wikipedia.org/wiki/Biens_communs_num%C3%A9riques). Le crowdfunding serait alors un moyen de payer des développeurs pour la mise en place de la solution, un peu comme de la consultance et le projet d'entreprise s'arrête là, sans perspective à moins que d'autres personnes se basant sur cette application décident de continuer son développement. Il sera alors important de choisir une licence empêchant que le produit ne tombe et ne devienne privé.
+        * Variante B : En faire un commun numérique. Si le crowdfunding réussi mais que le business model est bancal au point où les investisseurs semblent avoir été floués (c'est parfois le cas si l'entreprise se développe et devient de plus en plus mercantile sans pour les early adopters d'avoir obtenu une contre partie). Placer l'application en [open-source](https://fr.wikipedia.org/wiki/Open_source) serait alors nécessaire, quitte à ce que ce projet devienne un [commun numérique](https://fr.wikipedia.org/wiki/Biens_communs_num%C3%A9riques). Le crowdfunding serait alors un moyen de payer des développeurs pour la mise en place de la solution, un peu comme de la consultance et le projet d'entreprise s'arrête là, sans perspective à moins que d'autres personnes se basant sur cette application décident de continuer son développement. Il sera alors important de choisir une licence empêchant que le produit ne tombe et ne devienne privé.
 
     * N'oublions pas qu'avant de gagner le moindre argent, il faut récupérer son investissement à savoir le coût de développement de pareille application, un coût non négligeable, comme nous allons le voir.
 
@@ -110,7 +110,7 @@ Note : Par rapport aux autres réunions, les étudiants en comptabilité ont ét
 
 Note : Cette section a été ajoutée suite aux questions du client intervenues après la réunion.
 
-* Quelles sont les étapes de la création d'une telle application qui vont être facturées, à combien les estimons-nous ? (logiciel, etc).
+* Quelles sont les étapes de la création d'une telle application qui vont être facturées, à combien les estimons-nous ? (logiciel, etc).
 
     * Le coût va tout d'abord dépendre de quoi on part. Si le client a déjà une idée précise avec un logo, un business model clair, et s'étend déjà renseigné sur les interfaces graphiques possibles avec juste quelques raffinements nécessaires, il va de soi que le projet sera bien moins cher qu'un projet où l'entreprise doit accompagner le client et le conseiller (« time is money ») et effectuer de la gestion de projet.
 
@@ -124,7 +124,7 @@ Note : Cette section a été ajoutée suite aux questions du client intervenues 
 
         * Une landing page (un site web temporaire annoncant le projet) est également recommandé ainsi qu'une présence sur les réseaux sociaux afin d'accueillir les premières impressions et constituer une base d'utilisateurs qui seraient ainsi intéressés pour tester l'application en primeur par exemple.
 
-        * Selon la méthode agile SCRUM qui se base sur des cycles de développement, idéalement sur 15 jours (c'est la méthode qu'on a choisie dans le cadre de ce projet) : on fournit des livrables rapidement au client de façon pour lui à nous faire ses retour tôt dans le processus de création , nous permettant ainsi d'ajuster le tir si la direction prise par le développement est incorrecte ou si en cours de route on se rend compte que le business model ne tient pas et nécessite des ajustements (ça arrive malheureusement encore trop souvent). Cette méthode agile est aventageuse dans le sens où le clientne doit pas attendre la toute fin du projet pour avor une impression de ce que donne son projet.
+        * Selon la méthode agile SCRUM qui se base sur des cycles de développement, idéalement sur 15 jours (c'est la méthode qu'on a choisie dans le cadre de ce projet) : on fournit des livrables rapidement au client de façon pour lui à nous faire ses retours tôt dans le processus de création, nous permettant ainsi d'ajuster le tir si la direction prise par le développement est incorrecte ou si en cours de route on se rend compte que le business model ne tient pas et nécessite des ajustements (ça arrive malheureusement encore trop souvent). Cette méthode agile est aventageuse dans le sens où le clientne doit pas attendre la toute fin du projet pour avor une impression de ce que donne son projet.
 
             ![scrum overview](./img/scrum-overview.png)
 
@@ -134,7 +134,7 @@ Note : Cette section a été ajoutée suite aux questions du client intervenues 
 
         * Ces estimations sont tout à fait correctes, si Thomas, Romain et William avaient dû être payés pour le temps passé, c'est le prix qui aurait été demandé, sachant qu'ici fatalement on ne développe pas des applications tous les jours et qu'on est toujours considérés comme étant en formation, ça nous prend logiquement plus de temps que dans une entreprise où on réalise ce projet du matin à la fin de journée.
 
-        * Tenant compte du temps passé par l'équipe technique pour rencontrer les attentes des clients, effectuer du projer management, étudier avec eux les possibilités de monétisation, et si cette équipe technique avait disposé de designers ou d'experts en UI/UX dans l'équipe, tous les éléments précités auraient fait monter la note à 14 000 EUR pour un projet terminé avec un backend développé.
+        * Tenant compte du temps passé par l'équipe technique pour rencontrer les attentes des clients, effectuer du projer management, étudier avec eux les possibilités de monétisation, et si cette équipe technique avait disposé de designers ou d'experts en UI/UX dans l'équipe, tous les éléments précités auraient fait monter la note à 14 000 EUR pour un projet terminé avec un backend développé.
 
         * Notons que dans la réalité ce prix va également dépendre de 2 facteurs : le type d'entreprise et le type de tarification.
 
@@ -144,38 +144,38 @@ Note : Cette section a été ajoutée suite aux questions du client intervenues 
             
                 * « [Fixed-cost contract](https://en.wikipedia.org/wiki/Fixed-price_contract) » : un contrat qui ne dépend pas des resources et du temps alloués par l'entreprise. Le client a demandé une fonctionnalité et la veut pour telle date. C'est à la charge de l'entreprise de mettre tout en oeuvre pour y arriver. Le risque étant porté sur l'entreprise, ce type de contrat est généralement plus cher.
 
-                * « [« T&M » pour « Time and materials »](https://en.wikipedia.org/wiki/Time_and_materials) : l'entreprise estime du mieux possible le temps nécessaire et le client paie le temps passé. Il n'y a pas de garantie que le projet soit livré dans les temps estimés. Comme le risque est alors déporté sur le client, ce type de contrat est alors moins cher de l'ordre de 20 à 25 % par rapport à un « fixed cost contract ». C'est généralement ce type de contract qui est utilisé dans [le cas du consulting ou du support de L3](https://www.collaboraoffice.com/fr/conseil/).
+                * « [« T&M » pour « Time and materials »](https://en.wikipedia.org/wiki/Time_and_materials) : l'entreprise estime du mieux possible le temps nécessaire et le client paie le temps passé. Il n'y a pas de garantie que le projet soit livré dans les temps estimés. Comme le risque est alors déporté sur le client, ce type de contrat est alors moins cher de l'ordre de 20 à 25 % par rapport à un « fixed cost contract ». C'est généralement ce type de contract qui est utilisé dans [le cas du consulting ou du support de L3](https://www.collaboraoffice.com/fr/conseil/).
 
-* A combien estimons-nous la commercialisation de l'application ? (App store et/ou Play Store)? Est-ce qu'une maintenance de l'application est nécessaire toute l'année ou sur certaines périodes? Et à combien cela s'élèverait? 
+* A combien estimons-nous la commercialisation de l'application ? (App store et/ou Play Store)? Est-ce qu'une maintenance de l'application est nécessaire toute l'année ou sur certaines périodes ? Et à combien cela s'élèverait ?
 
-    * Outre le coût de l'application, pour la partie backend, il est nécessaire d'avoir un serveur. Le prix de ce dernier dépend de la charge d'utilisateurs qui seront connectés. Il est important donc d'avoir un bon « sizing » dès le départ. Ici un serveur d'« entrée de gamme » est suffisant. Voici des exemples de prix chez Scaleway, un fournisseur cloud français bien connu. Pour compter large : 25 EUR / mois.
+    * Outre le coût de l'application, pour la partie backend, il est nécessaire d'avoir un serveur. Le prix de ce dernier dépend de la charge d'utilisateurs qui seront connectés. Il est important donc d'avoir un bon « sizing » dès le départ. Ici un serveur d'« entrée de gamme » est suffisant. Voici des exemples de prix chez Scaleway, un fournisseur cloud français bien connu. Pour compter large : 25 EUR / mois.
 
         ![server sizing](./img/scaleway-instances.png)
 
-    * Pour publier une publication sur le Play Store de Google : 25 EUR, une fois.
+    * Pour publier une publication sur le Play Store de Google : 25 EUR, une fois.
 
-    * Pour publier une publication sur l'App Store d'Apple : 99 EUR / an.
+    * Pour publier une publication sur l'App Store d'Apple : 99 EUR / an.
 
-    * La plupart du temps, il faut un certificat pour signer les applications sur les stores, mais maintenant, il ne faut plus acheter de certificats, ils sont diponibles gratuitement via le prix payé pour l'accès au Google Play Store ou à l'Apple App Store.
+    * La plupart du temps, il faut un certificat pour [signer les applications sur les stores](https://developers.mattermost.com/contribute/desktop/code-signing/), mais maintenant, il ne faut plus acheter de certificat, ils sont disponibles gratuitement via le prix payé pour l'accès au Google Play Store ou à l'Apple App Store.
 
-* Quel est le salaire d'un développeur ?
+* Quel est le salaire d'un développeur ?
 
-    * Tout va dépendre de son expérience, mais aussi et surtout de la technologie qu'il maitrise : si c'est un marché de niche, il vaudra plus sur le marché qu'une compétence tout venant. Toutefois, on peut estimer qu'en sortant de la HEPL, un développeur peut admettre un salaire de 1.900 EUR net sans trop de travail de négociation, pur autant qu'il ne se soit pas limité à ce qui a été enseigné à la HEPL et possède des connaissances étendues.
+    * Tout va dépendre de son expérience, mais aussi et surtout de la technologie qu'il maîtrise : si c'est un marché de niche, il vaudra plus sur le marché qu'une compétence tout venant. Toutefois, on peut estimer qu'en sortant de la HEPL, un développeur peut admettre un salaire de 1 900 EUR net sans trop de travail de négociation, pour autant qu'il ne se soit pas limité à ce qui a été enseigné à la HEPL et possède des connaissances étendues.
 
-    * [GitLab](https://fr.wikipedia.org/wiki/GitLab), entreprise fournissant un logiciel libre de [forge](https://fr.wikipedia.org/wiki/Forge_(informatique)) éponyme, disposait autrefois d'un [calculateur public](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/), mais celui-ci a été rendu privé il y a peu. Heureusement, [ce calculateur a été sauvé sur la web archive](https://web.archive.org/web/20200606161551/https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/). Nous avons pu nous procurrer l'estimation qu'une telle entreprise s'attend d'un développeur belge. Noton que l'outil permet de régler un niveau « level » et un niveau d'apprentissage pour la tâche dans laquelle on vient d'être engagé « compa ratio range » (ex.: pour une tâche qui nécessite une certaine adaptation, quand on vient d'arriver on ne peut pas prétendre au même salaire qu'une personne qui a 2 mois d'expérience sur un processus interne de l'entreprise).
+    * [GitLab](https://fr.wikipedia.org/wiki/GitLab), entreprise fournissant un logiciel libre de [forge](https://fr.wikipedia.org/wiki/Forge_(informatique)) éponyme, disposait autrefois d'un [calculateur public](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/), mais celui-ci a été rendu privé il y a peu. Heureusement, [ce calculateur a été sauvé sur la web archive](https://web.archive.org/web/20200606161551/https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/). Nous avons pu nous procurrer l'estimation qu'une telle entreprise s'attend d'un développeur belge. Notons que l'outil permet de régler un niveau « level » et un niveau d'apprentissage pour la tâche dans laquelle on vient d'être engagé « compa ratio range » (ex.: pour une tâche qui nécessite une certaine adaptation, quand on vient d'arriver on ne peut pas prétendre au même salaire qu'une personne qui a 2 mois d'expérience sur un processus interne de l'entreprise), mais également une localisation au sein du pays visé (un développeur bruxellois coûtera plus cher qu’un développeur liégeois).
 
       ![belgian dev salary expectation](./img/belgian-dev-salary-expectation-gitlab.png)
 
-    * Comme on le voit sur cette image, une moyenne basse implique : 44 053 EUR par an brut. Si on part du principe qu'entre le net et le brut il y a pratiquement 50 % de différence, les 1 900 EUR / mois nets sont facilement atteints.
+    * Comme on le voit sur cette image, une moyenne basse implique : 44 053 EUR par an brut. Si on part du principe qu'entre le net et le brut il y a pratiquement 50 % de différence, les 1 900 EUR / mois nets sont facilement atteints.
 
 ### Focus
 
-Dans l'état actuel, vu que le produit n'est pas exploitable sur le marché directement, on part sur un produit fictif, il est dès lors important de se concentrer sur les 2 plus-values :
+Dans l'état actuel, vu que le produit n'est pas exploitable sur le marché directement, on part sur un produit fictif, il est dès lors important de se concentrer sur les 2 plus-values :
 * le QR code et l'encodage des dates
 * la liste de course
 
 ### Calendrier
 
 * Présenter le livrable 1 le plus vite possible au client
-* Exporter les mockups (expot vidéo du workflow de l'application) pour que les étudiants en commerce extérieur puisse les utiliser.
+* Exporter les mockups (export vidéo du workflow de l'application) pour que les étudiants en commerce extérieur puissent les utiliser.
 * Réunion dans 15 jours avant le 15 décembre.
