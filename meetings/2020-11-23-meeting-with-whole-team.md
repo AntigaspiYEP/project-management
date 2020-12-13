@@ -2,17 +2,17 @@
 
 ## Personnes présentes :
 
-* Gaël Baôo
-* Thomas Beck
-* Ibraimi Drilon
-* Lise Laurent
-* Hafsa Ouazri
-* Sonia Gazali
-* William Gathoye
-* Gary Georges
-* Belen Fernandes
-* Axelle Hermans
-* Romain Van Geit
+* Gaël Baôo <gael.baoo [at] student.hepl.be>
+* Thomas Beck <thomas.beck [at] student.hepl.be>
+* Ibraimi Drilon <drilon.ibraimi [at] student.hepl.be>
+* Lise Laurent <lise.laurent [at] student.hepl.be>
+* Hafsa Ouazri <lise.laurent [at] student.hepl.be>
+* Sonia Gazali <sonia.gazali [at] student.hepl.be>
+* William Gathoye <william.gathoye [at] student.hepl.be>
+* Gary Georges <gary.georges [at] student.hepl.be>
+* Belen Fernandes <belen.fernandes [at] student.hepl.be>
+* Axelle Hermans <axelle.hermans1 [at] student.hepl.be>
+* Romain Van Geit <romain.vangeit [at] student.hepl.be>
 
 Note : Par rapport aux autres réunions, les étudiants en comptabilité ont été rajoutés au projet YEP et ont dès lors décidé de participer à cette réunion.
 
